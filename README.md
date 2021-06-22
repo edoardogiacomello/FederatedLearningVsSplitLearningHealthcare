@@ -11,3 +11,7 @@
 ## Models
 
 link: https://drive.google.com/drive/folders/1ysqeYsJgSQEVF9orMglWff579mJ-VDvw?usp=sharing
+
+## TFrecords
+
+link: https://drive.google.com/drive/folders/1830AwBIe857Byda_dq7mKGyrenYQOdRI?usp=sharing
