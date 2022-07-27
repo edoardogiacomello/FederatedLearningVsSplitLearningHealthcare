@@ -16,3 +16,6 @@ Healthcare Imaging
 ## TFrecords
 
 [GDrive](https://drive.google.com/drive/folders/1830AwBIe857Byda_dq7mKGyrenYQOdRI?usp=sharing)
+
+## Contributors
+- [Michele Cataldo](https://github.com/michecataldo)
