@@ -1,17 +1,18 @@
-# FederatedXRay
+# Comparison of Federated Learning and Split Learning for
+Healthcare Imaging
 
-- TFFederated_coarse_grain.ipynb e TFFederated_fine_grain.ipynb notebooks per il training dei modelli Federated coarse e fine grain.
+- See TFFederated_coarse_grain.ipynb and TFFederated_fine_grain.ipynb notebooks for training Federated Learning models (Coarse and Fine grained).
 
-- SplitLearning_launcher.ipynb notebook per il lancio dei training dei modelli Split Learning.
+- SplitLearning_launcher.ipynb Trains Split Learning Models.
 
-- WriteTFrecords.ipynb notebook per la creazione dei TFrecords di Chexpert sulla base dei .csv
+- WriteTFrecords.ipynb generated TFRecords dataset based on the .csv files.
 
-- csv.zip: file con le varie suddivisioni di client sia per Split che per Federated con Uniform e Unbalanced datasets.
+- csv.zip: Defines the client datasets for both Split and Federated Learning, using either Uniform or Unbalanced datasets.
 
 ## Models
 
-link: https://drive.google.com/drive/folders/1ysqeYsJgSQEVF9orMglWff579mJ-VDvw?usp=sharing
+[GDrive](https://drive.google.com/drive/folders/1ysqeYsJgSQEVF9orMglWff579mJ-VDvw?usp=sharing)
 
 ## TFrecords
 
-link: https://drive.google.com/drive/folders/1830AwBIe857Byda_dq7mKGyrenYQOdRI?usp=sharing
+[GDrive](https://drive.google.com/drive/folders/1830AwBIe857Byda_dq7mKGyrenYQOdRI?usp=sharing)
